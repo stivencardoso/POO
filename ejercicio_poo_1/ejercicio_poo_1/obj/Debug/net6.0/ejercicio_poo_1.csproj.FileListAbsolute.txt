@@ -1,0 +1,15 @@
+C:\Users\FAMILIA CARDOSO\Desktop\c#\ejercicio_poo_1\ejercicio_poo_1\bin\Debug\net6.0\ejercicio_poo_1.exe
+C:\Users\FAMILIA CARDOSO\Desktop\c#\ejercicio_poo_1\ejercicio_poo_1\bin\Debug\net6.0\ejercicio_poo_1.deps.json
+C:\Users\FAMILIA CARDOSO\Desktop\c#\ejercicio_poo_1\ejercicio_poo_1\bin\Debug\net6.0\ejercicio_poo_1.runtimeconfig.json
+C:\Users\FAMILIA CARDOSO\Desktop\c#\ejercicio_poo_1\ejercicio_poo_1\bin\Debug\net6.0\ejercicio_poo_1.dll
+C:\Users\FAMILIA CARDOSO\Desktop\c#\ejercicio_poo_1\ejercicio_poo_1\bin\Debug\net6.0\ejercicio_poo_1.pdb
+C:\Users\FAMILIA CARDOSO\Desktop\c#\ejercicio_poo_1\ejercicio_poo_1\obj\Debug\net6.0\ejercicio_poo_1.csproj.AssemblyReference.cache
+C:\Users\FAMILIA CARDOSO\Desktop\c#\ejercicio_poo_1\ejercicio_poo_1\obj\Debug\net6.0\ejercicio_poo_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FAMILIA CARDOSO\Desktop\c#\ejercicio_poo_1\ejercicio_poo_1\obj\Debug\net6.0\ejercicio_poo_1.AssemblyInfoInputs.cache
+C:\Users\FAMILIA CARDOSO\Desktop\c#\ejercicio_poo_1\ejercicio_poo_1\obj\Debug\net6.0\ejercicio_poo_1.AssemblyInfo.cs
+C:\Users\FAMILIA CARDOSO\Desktop\c#\ejercicio_poo_1\ejercicio_poo_1\obj\Debug\net6.0\ejercicio_poo_1.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA CARDOSO\Desktop\c#\ejercicio_poo_1\ejercicio_poo_1\obj\Debug\net6.0\ejercicio_poo_1.dll
+C:\Users\FAMILIA CARDOSO\Desktop\c#\ejercicio_poo_1\ejercicio_poo_1\obj\Debug\net6.0\refint\ejercicio_poo_1.dll
+C:\Users\FAMILIA CARDOSO\Desktop\c#\ejercicio_poo_1\ejercicio_poo_1\obj\Debug\net6.0\ejercicio_poo_1.pdb
+C:\Users\FAMILIA CARDOSO\Desktop\c#\ejercicio_poo_1\ejercicio_poo_1\obj\Debug\net6.0\ejercicio_poo_1.genruntimeconfig.cache
+C:\Users\FAMILIA CARDOSO\Desktop\c#\ejercicio_poo_1\ejercicio_poo_1\obj\Debug\net6.0\ref\ejercicio_poo_1.dll

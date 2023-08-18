@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "A73EAx2DWf5dNO33+6vYAuIwX5AX4/eSbcAdtwVM3okj6y3N9ibdfQuEsz+xtPoMVF8UULDBctr2YK0AI/MEZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FAMILIA CARDOSO\\Desktop\\c#\\ejercicio_poo_1\\ejercicio_poo_1\\ejercicio_poo_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FAMILIA CARDOSO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\FAMILIA CARDOSO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\FAMILIA CARDOSO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\FAMILIA CARDOSO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
